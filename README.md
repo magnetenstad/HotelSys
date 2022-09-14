@@ -1,7 +1,7 @@
 <div align="center">
     <img src="docs/images/header.png"
         width="400"
-        alt="Logo." algin="center"/>
+        alt="Logo."/>
 </div>
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.stud.ntnu.no/#https://gitlab.stud.idi.ntnu.no/it1901/groups-2021/gr2116/gr2116/-/tree/main/)
